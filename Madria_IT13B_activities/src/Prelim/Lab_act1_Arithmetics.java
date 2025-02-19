@@ -13,9 +13,9 @@ public class Lab_act1_Arithmetics {
 
         System.out.println("Enter the first Number: ");
         a = in.nextInt();
-        System.out.println("Enter the first Number: ");
+        System.out.println("Enter the second Number: ");
         b = in.nextInt();
-        System.out.println("Enter the first Number: ");
+        System.out.println("Enter the third Number: ");
         c = in.nextInt();
 
         System.out.println(a + " * " + b + " + " + c + " = " + (a * b + c));
